@@ -11,7 +11,7 @@ This project is a responsive travel photo gallery built with **HTML** and **CSS 
 
 ## How to View
 
-[View the live site here](https://yanabrex.github.io/travel-gallery/)
+[View the live site here](https://ianabond.github.io/travel-gallery/)
 
 ## Screenshots
 
